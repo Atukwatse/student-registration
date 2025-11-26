@@ -1,0 +1,7 @@
+{
+  "name": "Test Student",
+  "regNo": "TEST001",
+  "course": "Computer Science",
+  "email": "test@example.com",
+  "phone": "1234567890"
+}

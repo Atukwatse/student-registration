@@ -1,0 +1,25 @@
+{
+  "name": "student-registration-system",
+  "version": "1.0.0",
+  "description": "Student Registration System with Node.js and Java backends",
+  "main": "start-all.js",
+  "scripts": {
+    "start": "node start-all.js",
+    "start:frontend": "cd frontend && npm start",
+    "start:backend": "cd backend && npm start",
+    "start:java": "cd java-backend && mvn spring-boot:run || echo 'Java backend not started - Maven not found'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "student",
+    "registration",
+    "nodejs",
+    "java",
+    "react"
+  ],
+  "author": "Student Registration Team",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
