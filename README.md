@@ -9,7 +9,7 @@ This is a full-stack student registration system with both Node.js and Java back
 - **Secondary Backend**: Java Spring Boot with MongoDB
 - **Database**: MongoDB
 
-## Features
+##features
 
 1. **Admin Functionality** (Node.js backend):
    - Admin login
@@ -23,7 +23,7 @@ This is a full-stack student registration system with both Node.js and Java back
 
 # Project Structure
 
-```
+
 student-registration/
 ├── backend/              # Node.js backend (port 5000)
 ├── frontend/             # React frontend (port 3000)
