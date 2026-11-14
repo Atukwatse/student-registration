@@ -130,7 +130,7 @@ This will check if all required tools are available and provide instructions for
 - Admin Login: POST `/api/students/login`
 - Student Management: GET/POST/PUT/DELETE `/api/students/students`
 
-### Java Backend (Port 8080)
+##  Java Backend (Port 8080)
 - Teacher Login: POST `/api/teachers/login`
 - View Students: GET `/api/teachers/students`
 
