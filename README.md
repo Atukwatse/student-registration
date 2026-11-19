@@ -69,7 +69,7 @@ npm start
 start-all.bat
 ```
 
-**Option 3: Using the PowerShell script (Windows)**
+**Option 3:Using the PowerShell script (Windows)**
 ```bash
 .\start-all.ps1
 ```
