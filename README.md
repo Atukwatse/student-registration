@@ -137,9 +137,9 @@ This will check if all required tools are available and provide instructions for
 ## How It Works
 
 The system uses both Node.js and Java backends
-- Admin users interact with the Node.js backend
+**-Admin users interact with the Node.js backend
 - Teacher users interact with the Java backend
 - Both backends connect to the same MongoDB database
 - The frontend determines which backend to call based on the user's role
-
+**
 This architecture allows you to gradually migrate functionality to Java while keeping the existing Node.js system operational.
