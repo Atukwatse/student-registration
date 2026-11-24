@@ -4,7 +4,7 @@ This is a full-stack student registration system with both Node.js and Java back
 
 # System Architecture
 
- **Frontend**: React.js application
+ **Frontend**: React.js  application
 - **Primary Backend**: Node.js with Express and MongoDB
 - **Secondary Backend**: Java Spring Boot with MongoDB
 - **Database**: MongoDB
@@ -21,7 +21,7 @@ This is a full-stack student registration system with both Node.js and Java back
    - Teacher login
    - View registered students
 
-# Project Structure
+# Project  Structure
 
 
 student-registration/
